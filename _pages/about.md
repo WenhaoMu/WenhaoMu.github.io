@@ -11,6 +11,6 @@ Welcome to Wenhao Mu (牟文昊)’s homepage! I’m a first year PhD student fr
 
 My research spans across AI-based decision making and time-series forecasting and generative models. l am particularly interested in making trustworthy intelligent system in open-world settings, particularly in the domain of public health and epidemiology. Towardthis goal, l am currently working on the following research thrusts:
 
-Causal inference and counterfactual prediction for healthcare
-Decision-making under uncertainty
-Controllable generative models for scientific discovery
+- Causal inference and counterfactual prediction for healthcare
+- Decision-making under uncertainty
+- Controllable generative models for scientific discovery
