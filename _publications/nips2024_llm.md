@@ -1,7 +1,6 @@
 ---
 title: "Aligning Large Language Models with Representation Editing: A Control Perspective"
 collection: publications
-category: manuscripts
 permalink: /publication/nips2024_llm
 date: 2024
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
