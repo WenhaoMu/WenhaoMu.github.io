@@ -2,7 +2,7 @@
 title: "DF2: Distribution-Free Decision-Focused Learning"
 collection: publications
 permalink: /publication/df2
-excerpt: 'Lingkai Kong, Wenhao Mu, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai, Chao Zhang'
+excerpt: 'Lingkai Kong, ** Wenhao Mu **, Jiaming Cui, Yuchen Zhuang, B Aditya Prakash, Bo Dai, Chao Zhang'
 date: 2023-5-1
 venue: 'preprint'
 ---
