@@ -3,7 +3,6 @@ title: "Aligning Large Language Models with Representation Editing: A Control Pe
 collection: publications
 category: manuscripts
 permalink: /publication/nips2024_llm
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 ---
