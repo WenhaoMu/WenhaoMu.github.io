@@ -1,0 +1,12 @@
+---
+title: "MUBen: benchmarking the uncertainty of pre-trained models for molecular property prediction"
+collection: publications
+permalink: /publication/MUBen
+excerpt: 'Yinghao Li, Lingkai Kong, Yuanqi Du, Yue Yu, Yuchen Zhuang, **Wenhao Mu**, Chao Zhang'
+date: 2023-8-1
+venue: 'Transactions on Machine Learning Research (TMLR), NeurIPS Workshop on AI4Science'
+---
+[paper](https://arxiv.org/abs/2306.10060)
+
+# abstract:
+Large molecular representation models pre-trained on massive unlabeled data have shown great success in predicting molecular properties. However, these models may tend to overfit the fine-tuning data, resulting in over-confident predictions on test data that fall outside of the training distribution. To address this issue, uncertainty quantification (UQ) methods can be used to improve the models' calibration of predictions. Although many UQ approaches exist, not all of them lead to improved performance. While some studies have included UQ to improve molecular pre-trained models, the process of selecting suitable backbone and UQ methods for reliable molecular uncertainty estimation remains underexplored. To address this gap, we present MUBen, which evaluates different UQ methods for state-of-the-art backbone molecular representation models to investigate their capabilities. By fine-tuning various backbones using different molecular descriptors as inputs with UQ methods from different categories, we assess the influence of architectural decisions and training strategies. Our study offers insights for selecting UQ for backbone models, which can facilitate research on uncertainty-critical applications in fields such as materials science and drug discovery.
