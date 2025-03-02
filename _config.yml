@@ -24,9 +24,9 @@ author:
   avatar           : "myphoto.png"
   name             : "Wenhao Mu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student, University of Michigan"
   location         : "Ann Arbor, MI"
-  employer         : "University of Michigan"
+  # employer         : "University of Michigan"
   uri              : # URL
   email            : "muwenhao@umich.edu" 
 
