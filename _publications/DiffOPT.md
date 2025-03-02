@@ -2,7 +2,7 @@
 title: "Diffusion models as constrained samplers for optimization with unknown constraints"
 collection: publications
 permalink: /publication/DiffOPT
-excerpt: '** Wenhao Mu\* **, Lingkai Kong\*, Yuanqi Du\*, Kirill Neklyudov, Valentin De Bortoli, Dongxia Wu, Haorui Wang, Aaron Ferber, Yi-An Ma, Carla P Gomes, Chao Zhang'
+excerpt: '**Wenhao Mu\***, Lingkai Kong\*, Yuanqi Du\*, Kirill Neklyudov, Valentin De Bortoli, Dongxia Wu, Haorui Wang, Aaron Ferber, Yi-An Ma, Carla P Gomes, Chao Zhang'
 date: 2025-2-1
 venue: 'Artificial Intelligence and Statistics (AISTATS)'
 ---
