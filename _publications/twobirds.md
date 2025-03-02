@@ -2,7 +2,7 @@
 title: "Two Birds with One Stone: Enhancing Uncertainty Quantification and Interpretability with Graph Functional Neural Process"
 collection: publications
 permalink: /publication/twobirds
-excerpt: 'Lingkai Kong, Haotian Sun, Yuchen Zhuang, Haorui Wang, ** Wenhao Mu **, Chao Zhang'
+excerpt: 'Lingkai Kong, Haotian Sun, Yuchen Zhuang, Haorui Wang, **Wenhao Mu**, Chao Zhang'
 date: 2024-2-1
 venue: 'Artificial Intelligence and Statistics (AISTATS)'
 ---
