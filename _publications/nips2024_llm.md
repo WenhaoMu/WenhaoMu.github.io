@@ -2,7 +2,7 @@
 title: "Aligning Large Language Models with Representation Editing: A Control Perspective"
 collection: publications
 permalink: /publication/nips2024_llm
-excerpt: 'Wenhao Mu\*, Lingkai Kong\*, Haorui Wang\*, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang'
+excerpt: '** Wenhao Mu\* **, Lingkai Kong\*, Haorui Wang\*, Yuanqi Du, Yuchen Zhuang, Yifei Zhou, Yue Song, Rongzhi Zhang, Kai Wang, Chao Zhang'
 date: 2024-4-1
 venue: 'Advances in Neural Information Processing Systems (NeurIPS)'
 ---
