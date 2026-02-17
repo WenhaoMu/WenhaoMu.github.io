@@ -1,5 +1,5 @@
 ---
-title: "Diffusion models as constrained samplers for optimization with unknown constraints"
+title: "Counterfactual probabilistic diffusion with expert models"
 collection: publications
 permalink: /publication/ODE-Diff
 excerpt: '**Wenhao Mu\***, Zhi Cao, Mehmed Uludag, Alexander Rodríguez'
