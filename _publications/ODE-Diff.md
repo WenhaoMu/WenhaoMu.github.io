@@ -2,9 +2,9 @@
 title: "Counterfactual probabilistic diffusion with expert models"
 collection: publications
 permalink: /publication/ODE-Diff
-excerpt: '**Wenhao Mu\***, Zhi Cao, Mehmed Uludag, Alexander Rodríguez'
-date: 2026-2-1
-venue: 'Arxiv'
+excerpt: '**Wenhao Mu**, Zhi Cao, Mehmed Uludag, Alexander Rodríguez'
+date: 2025-08-18
+venue: 'arXiv preprint'
 ---
 [paper](https://arxiv.org/abs/2508.13355)
 
