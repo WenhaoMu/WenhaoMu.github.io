@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Wenhao Mu (牟文昊)’s homepage! I’m a second-year PhD student from Computer Science Engineering, University of Michigan, advised by [Prof. Alexander Rodríguez](https://alrodri.engin.umich.edu/). I received my Master’s degree from School of Computational Science and Engineering , Georgia Institute of Technology, advised by [Prof. Chao Zhang](http://chaozhang.org/).
+Welcome! I’m Wenhao Mu (牟文昊), a third-year PhD candidate at the University of Michigan, advised by [Prof. Alexander Rodríguez](https://alrodri.engin.umich.edu/). I received my M.S. in Computational Science and Engineering from the Georgia Institute of Technology, where I was advised by [Prof. Chao Zhang](https://chaozhang.org/).
 
-My research spans across AI-based decision making and time-series forecasting and generative models. l am particularly interested in making trustworthy intelligent system in open-world settings, particularly in the domain of public health and epidemiology. Towardthis goal, l am currently working on the following research thrusts:
+My research focuses on generative models, causal inference, and decision-making under uncertainty, with applications to public health and epidemiology. I aim to build trustworthy models for counterfactual prediction and decision support by combining data-driven learning with mechanistic and expert knowledge. My research interests include:
 
-- Causal inference and counterfactual prediction for healthcare
+- Causal inference and counterfactual prediction for healthcare and public health
 - Controllable generative models for scientific discovery
-- Decision-making under uncertainty
+- Time-series modeling and decision-making under uncertainty
